@@ -1,2 +1,2 @@
 # garvEngine
-A game engine using the Vulkan API
+A game engine using OpenGL
